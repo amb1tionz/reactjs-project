@@ -511,4 +511,12 @@ h6 {
     max-width: 1170px;
   }
 }
+@media screen and (max-width: 712px) {
+  .roomslist {
+    padding-top: 0;
+  }
+  .filter-container {
+    padding: 25px 0 25px 0;
+  }
+}
 /* end of rooms fitler*/
